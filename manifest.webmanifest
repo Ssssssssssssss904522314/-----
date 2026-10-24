@@ -1,0 +1,12 @@
+{
+  "name": "Россия RP",
+  "short_name": "Россия RP",
+  "description": "Открытый 3D-мир Россия RP",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101b25",
+  "theme_color": "#101b25",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
